@@ -2,7 +2,9 @@
 Cummins Generator Technologies
 Bvd. Decebal, 116A, Craiova Dolj 200746, Romania
 
-1.CONDITIONS. DESIGN REQUIREMENTS <img src= "Picture21.jpg" width=800>
+1.CONDITIONS. DESIGN REQUIREMENTS 
+
+<img src= "Picture21.jpg" width=600>
 
  We have considered the following project reference elements / requirements:
  
