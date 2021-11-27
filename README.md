@@ -83,7 +83,7 @@ and generating the following signals / alerts (possible to be redefined with the
   
   o if the temperature is lower than 50 °C the system will ignore it, without any signaling
   
-  <img src= "IR laser spot sensor.jpg" width=400>        <img src= "Alarm Lamp.jpg" width=400>  <img src= "Reset Alarm Button.jpg" width=400> 
+  <img src= "IR laser spot sensor.jpg" width=300>        <img src= "Alarm Lamp.jpg" width=300>  <img src= "Reset Alarm Button.jpg" width=300> 
 
 ATTENTION: 
 The temperature signaling detected to be well below the acceptable level may also appear if the laser spot is incompletely placed on the surface to be checked, 
@@ -127,7 +127,7 @@ The proposed solution will have the following main components:
 
 • Various materials and connectivity
 
-<img src= "PLC Connection.jpg" width=600> 
+<img src= "PLC Connection.jpg" width=500> 
 
 5.	OPTIONS.
 
@@ -136,7 +136,7 @@ The solution can be improved by applying the following optional systems:
 • The logging of the 'input' data WO and the temperature range can be done with a barcode scanner (with profinet interface), by scanning on the material sheet (BOM) of the 
 WO and the desired temperature range, whether they can be printed on the BOM or on a separate sheet; the solution is supplemented with approx. 450 euros.
 
-<img src= "Read values from rotor by sensor.jpg" width=600>
+<img src= "Read values from rotor by sensor.jpg" width=500>
 
 6.	BUDGETARY ESTIMATE. COMMERCIAL & ORGANIZATIONAL ASPECTS
 
@@ -196,7 +196,9 @@ I am at your disposal for further clarifications and details; please do not hesi
 Regards,
  
 Ariful Islam Arif
+
 Automation and IoT Engineer
+
 Polisea S.A.
 
 
