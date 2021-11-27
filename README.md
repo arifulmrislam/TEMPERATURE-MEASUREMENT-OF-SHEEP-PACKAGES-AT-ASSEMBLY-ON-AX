@@ -82,6 +82,8 @@ and generating the following signals / alerts (possible to be redefined with the
   o at deviations above 5 °C below the acceptable minimum the red lamp (continuous) + audio signal (buzzer) will illuminate.
   
   o if the temperature is lower than 50 °C the system will ignore it, without any signaling
+  
+  <img src= "IR laser spot sensor.jpg" width=400>  <img src= "Alarm Lamp.jpg" width=400> 
 
 ATTENTION: 
 The temperature signaling detected to be well below the acceptable level may also appear if the laser spot is incompletely placed on the surface to be checked, 
