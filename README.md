@@ -22,7 +22,7 @@ space next to the 2 presses, so that the temperature sensor is at max. 3m from t
 
 • The assembly process is, or can be organized to be sufficiently constant and deterministic throughout the movement of the sheets, so as not to introduce variables that can lead to alteration of the verification with multiple or false records.
 
-<img src= "Picture21.jpg" width=200>        <img src= "Picture20.png" width=500>
+<img src= "Picture21.jpg" width=200>        <img src= "Picture20.png" width=400>
 
 2. PURPOSE. ADVANTAGES OF THE PROPOSED TECHNICAL SOLUTION
 
