@@ -127,7 +127,7 @@ The proposed solution will have the following main components:
 
 • Various materials and connectivity
 
-<img src= "PLC Connection.jpg" width=500> 
+<img src= "PLC Connection.jpg" width=500> <img src= "Read values from rotor by sensor.jpg" width=500>
 
 5.	OPTIONS.
 
@@ -135,8 +135,6 @@ The solution can be improved by applying the following optional systems:
 
 • The logging of the 'input' data WO and the temperature range can be done with a barcode scanner (with profinet interface), by scanning on the material sheet (BOM) of the 
 WO and the desired temperature range, whether they can be printed on the BOM or on a separate sheet; the solution is supplemented with approx. 450 euros.
-
-<img src= "Read values from rotor by sensor.jpg" width=500>
 
 6.	BUDGETARY ESTIMATE. COMMERCIAL & ORGANIZATIONAL ASPECTS
 
