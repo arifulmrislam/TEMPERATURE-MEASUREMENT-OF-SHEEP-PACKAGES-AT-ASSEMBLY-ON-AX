@@ -1,26 +1,26 @@
 # TEMPERATURE-MEASUREMENT-OF-SHEET-PACKAGES-AT-AXLE-ASSEMBLY
-Cummins Generator Technologies
+- Cummins Generator Technologies
 Bvd. Decebal, 116A, Craiova Dolj 200746, Romania
 
 1.CONDITIONS. DESIGN REQUIREMENTS
 
  We have considered the following project reference elements / requirements:
  
-• Sheet metal packages are delivered and brought to the shaft assembly station on a standard support, with lifting shaft; the packages can have diameters of 
+- Sheet metal packages are delivered and brought to the shaft assembly station on a standard support, with lifting shaft; the packages can have diameters of 
 approx. 800 - 1200mm and height of approx. 1000 - 1200mm.
 
-• It is desired to automate the measurement of the external temperature of the packages before the assembly on the shaft, an operation that must be 
+- It is desired to automate the measurement of the external temperature of the packages before the assembly on the shaft, an operation that must be 
 performed only in a certain temperature range preset by the customer.
 
-• Informatively, the temperature ranges monitored at assembly are between 100 and 200 °C, for example: 100-110 °C, 150-160 °C or 170-180 °C, depending 
+- Informatively, the temperature ranges monitored at assembly are between 100 and 200 °C, for example: 100-110 °C, 150-160 °C or 170-180 °C, depending 
 on the type of sheets (to be defined by the customer).
 
-• Sheets are usually taken from the support bracket in succession, with a thickness of approx. 100mm.
+- Sheets are usually taken from the support bracket in succession, with a thickness of approx. 100mm.
 
-• The sheet metal package can be assembled at any of the 2 presses in the workshop and it is possible & acceptable to define a fixed checkpoint in the 
+- The sheet metal package can be assembled at any of the 2 presses in the workshop and it is possible & acceptable to define a fixed checkpoint in the 
 space next to the 2 presses, so that the temperature sensor is at max. 3m from the object to be measured - see also the sketch below.
 
-• The assembly process is, or can be organized to be sufficiently constant and deterministic throughout the movement of the sheets, so as not to introduce variables that can lead to alteration of the verification with multiple or false records.
+- The assembly process is, or can be organized to be sufficiently constant and deterministic throughout the movement of the sheets, so as not to introduce variables that can lead to alteration of the verification with multiple or false records.
 
 <img src= "Picture21.jpg" width=200>        <img src= "Picture20.png" width=400>
 
@@ -28,49 +28,49 @@ space next to the 2 presses, so that the temperature sensor is at max. 3m from t
 
 The application of the proposed solution aims to obtain the following advantages:
 
-• The temperature of the sheet packs taken successively from the support is measured automatically, to signal if the temperature is in, or outside, the desired range.
+- The temperature of the sheet packs taken successively from the support is measured automatically, to signal if the temperature is in, or outside, the desired range.
 
-• This automation ensures an objective measurement process, independent of the operator.
+- This automation ensures an objective measurement process, independent of the operator.
 
-• You can get a log with WO, the time of verification and the measured temperatures.
+- You can get a log with WO, the time of verification and the measured temperatures.
 
-• Requires minimal preventive maintenance during operation.
+- Requires minimal preventive maintenance during operation.
 
 3. PROPOSED TECHNICAL SOLUTION
 
 The proposed solution involves the following: 
 
-• On a high (possibly movable) metal pole at approx. 1.5 - 2.0m from the place established for the station / place for temperature verification, two sensors will be installed: 
+- On a high (possibly movable) metal pole at approx. 1.5 - 2.0m from the place established for the station / place for temperature verification, two sensors will be installed: 
 temperature and distance, in positions identified on-site so that their radii are as close as possible to the vertical, but not to bother crane operation and
 not to be accidentally hit by handled objects in that area, ensuring a distance to the measuring surface (up to the object) of max. 3m.
 
-• Establish a marked area on the ground next to the presses for the checkpoint so that the maximum distance to the sensor is observed and without 
+- Establish a marked area on the ground next to the presses for the checkpoint so that the maximum distance to the sensor is observed and without 
 interference in the laser beam of the sensor.
 
-• In a position identified on-site, in which the temperature sensor spot is completely placed on the upper face of the sheet set,
+- In a position identified on-site, in which the temperature sensor spot is completely placed on the upper face of the sheet set,
 the position = distance sensor spot is adjusted.
 
-• Checking the temperature of each set will be done as they rise from the support, when passing through the rays of the 2 sensors, and the temperature level alert and logging will
+- Checking the temperature of each set will be done as they rise from the support, when passing through the rays of the 2 sensors, and the temperature level alert and logging will
 be done the first time the set enters the field of the distance sensor (adjusted about 20mm).
 
-• We recommend that the support pillar of the system be designed mobile, possibly with wheels with braking / locking system, in order to be able to be placed in the desired 
+- We recommend that the support pillar of the system be designed mobile, possibly with wheels with braking / locking system, in order to be able to be placed in the desired 
 position and at the necessary distance from the place of checking the sheet metal package.
 
-• A control panel with the system components is installed on the pole, including mainly an HMI display, the control PLC, buttons and the warning lamp.
+- A control panel with the system components is installed on the pole, including mainly an HMI display, the control PLC, buttons and the warning lamp.
 
 The working method involves:
-• The operator starts a new verification cycle by entering the WO and the temperature range to be verified on the touch-screen HMI display (minimum + maximum), 
+- The operator starts a new verification cycle by entering the WO and the temperature range to be verified on the touch-screen HMI display (minimum + maximum), 
 data that will be recorded in the log (log).
 
-• The operator places the sheet metal support in the marked area to check the temperature so that the laser spot of the temperature sensor is applied in a clear, 
+- The operator places the sheet metal support in the marked area to check the temperature so that the laser spot of the temperature sensor is applied in a clear, 
 well-defined and easily repetitive position, for example on the central axis of the support, near the set. of the highest sheet;
 
-• For all sets of sheets, the check will be made when lifting from the support, when passing through the laser sensor, and for the best possible measurement, 
+- For all sets of sheets, the check will be made when lifting from the support, when passing through the laser sensor, and for the best possible measurement, 
 the balance of the set will be avoided and - preferably - the set will be stopped when the spot it is completely placed in the area established on the piece.
 
-• When the sheet set reaches the preset detection area of the distance sensor, the temperature measurement and logging are triggered; the recording is signaled with a small beep;
+- When the sheet set reaches the preset detection area of the distance sensor, the temperature measurement and logging are triggered; the recording is signaled with a small beep;
 
-• Throughout the check-in assembly cycle, the temperature sensor measures objects (intentionally or accidentally) in the laser beam, displaying the temperature on the HMI display
+- Throughout the check-in assembly cycle, the temperature sensor measures objects (intentionally or accidentally) in the laser beam, displaying the temperature on the HMI       display
 and generating the following signals / alerts (possible to be redefined with the customer):
 
   o If the temperature is within the set range, the green lamp will illuminate
@@ -89,15 +89,15 @@ ATTENTION:
 The temperature signaling detected to be well below the acceptable level may also appear if the laser spot is incompletely placed on the surface to be checked, 
 so the operator must continue operations until he ensures complete placement, that moment being relevant in the verification process. 
 
-• If the alarm is triggered in one of the above deviation situations, it will be able to be stopped and the application will resume its verification cycle only if the operator 
+- If the alarm is triggered in one of the above deviation situations, it will be able to be stopped and the application will resume its verification cycle only if the operator 
 presses the stop button on the control panel; this system is useful to record whether the operator intentionally canceled the alert but continued operations even 
 if he was forced to stop - through technological assembly procedures;
 
-• The end of the assembly cycle, of the entire sheet package on the shaft, will be marked on the HMI by the operator and will be recorded in the log;
+- The end of the assembly cycle, of the entire sheet package on the shaft, will be marked on the HMI by the operator and will be recorded in the log;
 
-• The log can be downloaded later by a technician, by connecting a laptop to the PLC of the application or through the local LAN - if you connect to the LAN and this PLC;
+- The log can be downloaded later by a technician, by connecting a laptop to the PLC of the application or through the local LAN - if you connect to the LAN and this PLC;
 
-• Periodically an operator will check the status of the application components and perform the minimum operationsperiodic maintenance according to the instructions in the 
+- Periodically an operator will check the status of the application components and perform the minimum operationsperiodic maintenance according to the instructions in the 
 application documentation.
 
 Note: 
