@@ -24,7 +24,7 @@ Bvd. Decebal, 116A, Craiova Dolj 200746, Romania
 
 <img src= "Picture21.jpg" width=200>        <img src= "Picture20.png" width=400>
 
-2. PURPOSE. ADVANTAGES OF THE PROPOSED TECHNICAL SOLUTION
+`2. PURPOSE. ADVANTAGES OF THE PROPOSED TECHNICAL SOLUTION`
 
 The application of the proposed solution aims to obtain the following advantages:
 
@@ -36,7 +36,7 @@ The application of the proposed solution aims to obtain the following advantages
 
 - Requires minimal preventive maintenance during operation.
 
-3. PROPOSED TECHNICAL SOLUTION
+`3. PROPOSED TECHNICAL SOLUTION`
 
 The proposed solution involves the following: 
 
@@ -127,14 +127,14 @@ The proposed solution will have the following main components:
 
 <img src= "PLC Connection.jpg" width=400> <img src= "Read values from rotor by sensor.jpg" width=400>
 
-5.	OPTIONS.
+`5.	OPTIONS`
 
 The solution can be improved by applying the following optional systems:
 
 • The logging of the 'input' data WO and the temperature range can be done with a barcode scanner (with profinet interface), by scanning on the material sheet (BOM) of the 
 WO and the desired temperature range, whether they can be printed on the BOM or on a separate sheet; the solution is supplemented with approx. 450 euros.
 
-6.	BUDGETARY ESTIMATE. COMMERCIAL & ORGANIZATIONAL ASPECTS
+`6.	BUDGETARY ESTIMATE. COMMERCIAL & ORGANIZATIONAL ASPECTS`
 
 The total value of the proposed solution is EUR 5,860.00 excluding VAT and includes:Componentele necesare realizării soluției tehnice validate cu beneficiarul 
 (exclusiv opționalele);
@@ -174,7 +174,7 @@ Estimated delivery time, installation and modifications:
 • Test period: 4 weeks after installation, during which we will provide free assistance to
 checking the operation and adjusting the parameters of the solution.
 
-Warranty period:
+`Warranty period:`
 
 • We offer a 12-month warranty from the installation of the solution, or equal to the warranty of the components as granted by their manufacturers.
 • Throughout the warranty period (during normal working hours), we will provide free telephone assistance or augmented reality technology - optional subscription 
