@@ -109,7 +109,7 @@ distance field or descending below the distance measuring field with return upwa
 - Placing or passing through the test area any hot objects (with a temperature above 50 oC, limit that can be redefined) that can generate false alerts and the aim will be 
 to raise the set of sheets so that the temperature spot is not "hidden" ”Of other objects, such as the lifting device, the crane hook, the operator’s body.
 
-4.	MAIN COMPONENTS OF THE SOLUTION
+`4.	MAIN COMPONENTS OF THE SOLUTION`
 
 The proposed solution will have the following main components:
 
