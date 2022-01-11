@@ -111,7 +111,7 @@ to raise the set of sheets so that the temperature spot is not "hidden" ”Of ot
 
 `4.	MAIN COMPONENTS OF THE SOLUTION`
 
-- The proposed solution will have the following main components:
+The proposed solution will have the following main components:
 
 `IR laser spot sensor for temperature measurement;`
 
