@@ -1,6 +1,6 @@
 # TEMPERATURE-MEASUREMENT-OF-SHEET-PACKAGES-AT-AXLE-ASSEMBLY
-- Cummins Generator Technologies
-Bvd. Decebal, 116A, Craiova Dolj 200746, Romania
+`Cummins Generator Technologies
+Bvd. Decebal, 116A, Craiova Dolj 200746, Romania`
 
 `1.CONDITIONS. DESIGN REQUIREMENTS`
 
