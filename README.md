@@ -143,13 +143,13 @@ WO and the desired temperature range, whether they can be printed on the BOM or 
 
  `Manpower for preparation, installation, testing and PIF of the application.`
 
- `Small accessories for connectivity, data transmission, grounding brackets, so on.`
+ `Small accessories for connectivity, data transmission, grounding brackets and so on.`
 
  `Technical documentation of the solution (eg: manual for use and maintenance of installed equipment, declaration of compliance with applicable EC rules).`
 
  `Labor for on-site adjustments of sensor settings, for a period of 1 month after installation;` 
 
-- Operations and / or costs provided by the beneficiary:
+Operations and / or costs provided by the beneficiary:
 
 - New metal supports or modifications to existing ones on-site for the installation of components (eg: cuts in housings / walls, ceiling mounting, mounting brackets defined 
   together with the supplier,
@@ -174,7 +174,7 @@ WO and the desired temperature range, whether they can be printed on the BOM or 
 - Test period: 4 weeks after installation, during which we will provide free assistance to
 checking the operation and adjusting the parameters of the solution.
 
-`Warranty period:`
+## Warranty period:
 
 - We offer a 12-month warranty from the installation of the solution, or equal to the warranty of the components as granted by their manufacturers.
 - Throughout the warranty period (during normal working hours), we will provide free telephone assistance or augmented reality technology - optional subscription 
